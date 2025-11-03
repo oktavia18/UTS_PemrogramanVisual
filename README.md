@@ -109,7 +109,7 @@ Setiap halaman memiliki fungsi spesifik yang saling terhubung, mulai dari **logi
 ---
 | No | Judul Video | Platform | Link YouTube |
 |----|-------------|---------|-------------|
-| 1  | UTS Pemrograman Visual: Website Brownies Management System dengan MongoDB & IIS | Desktop | [Tonton di YouTube](https://youtu.be/2gIi-d1YR68?si=kmkjEKPhnVGpLRFw) |
+| 1  | UTS Pemrograman Visual: Website Brownies Management System dengan MongoDB & IIS | YouTube | [Tonton di YouTube](https://youtu.be/2gIi-d1YR68?si=kmkjEKPhnVGpLRFw) |
 
 
 
