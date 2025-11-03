@@ -9,6 +9,9 @@ Brownie House Management System adalah aplikasi berbasis web yang dirancang untu
 ## 🖥️ Tampilan dan Alur Aplikasi
 
 ### 1. Halaman Login
+
+<img width="983" height="506" alt="image" src="https://github.com/user-attachments/assets/f8d40e64-327d-48a8-bc5e-a95cc7ecde10" />
+
 Halaman awal yang digunakan pengguna untuk masuk ke sistem.  
 Terdapat input username, password, opsi “Stay signed in”, serta tombol **Sign In**.  
 Pengguna yang berhasil login akan diarahkan ke halaman utama (Dashboard).
@@ -16,6 +19,9 @@ Pengguna yang berhasil login akan diarahkan ke halaman utama (Dashboard).
 ---
 
 ### 2. Dashboard
+
+<img width="979" height="472" alt="image" src="https://github.com/user-attachments/assets/9f8c9639-bd37-4be3-893d-b6f18409ee01" />
+
 Setelah login, pengguna akan melihat halaman utama dengan tampilan logo dan gambar interior toko Brownie House.  
 Terdapat kalimat sambutan yang menekankan kemudahan dan kenyamanan pelanggan.  
 Di sisi kiri terdapat **sidebar menu** untuk mengakses berbagai fitur utama seperti Sistem Manager, Master Data, dan Administration Tools.
@@ -23,6 +29,9 @@ Di sisi kiri terdapat **sidebar menu** untuk mengakses berbagai fitur utama sepe
 ---
 
 ### 3. Sistem Manager
+
+<img width="839" height="486" alt="image" src="https://github.com/user-attachments/assets/392abfa0-f4aa-4417-8b67-fff919175906" />
+
 Menu ini berfungsi sebagai pusat pengaturan utama sistem.  
 Admin dapat mengelola pengguna, peran, serta hak akses masing-masing role.  
 Fitur di dalamnya mencakup:
@@ -32,6 +41,9 @@ Fitur di dalamnya mencakup:
 ---
 
 ### 4. User Management
+
+<img width="989" height="439" alt="image" src="https://github.com/user-attachments/assets/af046ec7-d328-4e6b-b6ba-adbabe178578" />
+
 Berisi tabel daftar pengguna yang terdaftar di sistem, menampilkan kolom seperti ID User, Role, Status, dan Waktu Login terakhir.  
 Admin dapat menambahkan user baru, mengedit data, atau menghapus pengguna lama.  
 Contoh: user `adminit` dengan role `IT DEV` aktif, serta user `stafit` sebagai staf pengembang.
@@ -39,6 +51,9 @@ Contoh: user `adminit` dengan role `IT DEV` aktif, serta user `stafit` sebagai s
 ---
 
 ### 5. Administration Tools
+
+<img width="1064" height="404" alt="image" src="https://github.com/user-attachments/assets/db0c7a64-b815-4997-991f-310ffdff0e10" />
+
 Berfungsi untuk mengatur konfigurasi aplikasi dan struktur menu yang muncul di sidebar.  
 Admin dapat menyesuaikan tampilan aplikasi, mengatur pesan standar, serta melakukan pengelolaan database.  
 Submenu penting:
@@ -46,20 +61,13 @@ Submenu penting:
 - **Standard Messages** → teks notifikasi dan alert standar.  
 - **App Management** → meliputi Menu Management, User Identity, Database Utility, dan Utilities tambahan.
 
----
-
-### 6. Menu Management
-Tempat untuk membuat dan mengatur struktur menu di dalam sistem.  
-Admin dapat menambahkan menu baru dengan menentukan ID, nama menu, parent menu, urutan tampil, ikon, dan status aktif.  
-Contoh menu:
-- Sistem Manager (`fa fa-cogs`)
-- Master Data (`fa fa-database`)
-- brownies (`fa fa-coffee`)
-- Developer Area (`fa fa-user`)
 
 ---
 
-### 7. Menu Editor
+### 6. Menu Editor
+
+<img width="1023" height="456" alt="image" src="https://github.com/user-attachments/assets/101c19e8-99e2-4d73-9c58-b2e649e62a43" />
+
 Digunakan untuk menambah atau mengubah menu yang sudah ada.  
 Formulirnya berisi kolom seperti Menu ID, Name, Parent, Level, Sequence, Link, Icon, Tag1, Tag2, dan Status.  
 Tombol **SAVE** untuk menyimpan perubahan dan **BACK** untuk kembali ke daftar menu.
@@ -75,4 +83,21 @@ Tombol **SAVE** untuk menyimpan perubahan dan **BACK** untuk kembali ke daftar m
 
 ---
 
-## 🧱 Struktur Menu Sidebar
+## 🧰 8. Teknologi & Tools yang Digunakan
+
+- **Desain Prototype:** Balsamiq Mockups  
+- **Framework Frontend:** HTML, CSS, dan Bootstrap (opsional)  
+- **Backend (jika dikembangkan):** PHP / CodeIgniter  
+- **Database (rencana integrasi):** MySQL / MariaDB  
+- **Struktur Navigasi:** Sidebar + Topbar + Main Content  
+
+---
+
+## 📦 9. Kesimpulan
+
+Tampilan website **Brownies Management System** dirancang dengan struktur antarmuka yang konsisten, memudahkan pengguna untuk mengelola data dengan cepat dan efisien.  
+Setiap halaman memiliki fungsi spesifik yang saling terhubung, mulai dari **login**, **navigasi**, **pengelolaan data**, hingga **pengaturan tampilan**.
+
+---
+
+🧡 *Dokumentasi ini dibuat untuk menjelaskan tampilan dan alur kerja aplikasi secara visual dari proses awal hingga akhir.*
