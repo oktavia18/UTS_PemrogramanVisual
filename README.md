@@ -1,4 +1,12 @@
 # UTS_PemrogramanVisual
+## PROFIL
+| Variable           |             Isi            |
+| -------------------|----------------------------|
+| **Nama**           |         Oktavia Rizkha Kurniawati       |
+| **NIM**            |          312310509         |
+| **Kelas**          |          TI.23.A.5         |
+| **Mata Kuliah**    |     Pemograman Visual (Desktop)     |
+| **Dosen Pengampu** | Dr. Muhamad Fatchan, S.Kom., M.Kom. |
 
 # 🍰 Brownie House Management System
 
@@ -99,5 +107,11 @@ Tampilan website **Brownies Management System** dirancang dengan struktur antarm
 Setiap halaman memiliki fungsi spesifik yang saling terhubung, mulai dari **login**, **navigasi**, **pengelolaan data**, hingga **pengaturan tampilan**.
 
 ---
+| No | Judul Video | Platform | Link YouTube |
+|----|-------------|---------|-------------|
+| 1  | UTS Pemrograman Visual: Website Brownies Management System dengan MongoDB & IIS | YouTube | [Tonton di YouTube]([https://www.youtube.com/watch?v=XXXXXXX](https://youtu.be/2gIi-d1YR68?si=kmkjEKPhnVGpLRFw)) |
+
+
+
 
 🧡 *Dokumentasi ini dibuat untuk menjelaskan tampilan dan alur kerja aplikasi secara visual dari proses awal hingga akhir.*
